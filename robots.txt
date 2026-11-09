@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://shayan-174.github.io/ShayanGames/sitemap.xml
